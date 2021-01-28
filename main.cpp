@@ -75,6 +75,7 @@ int main() {
         again_loop = false;
         white_turn = !white_turn;
         counter++;
+        //Making change
     }
     return 0;
 }
