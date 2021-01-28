@@ -76,6 +76,7 @@ int main() {
         white_turn = !white_turn;
         counter++;
         //Making change
+        //Double change
     }
     return 0;
 }
